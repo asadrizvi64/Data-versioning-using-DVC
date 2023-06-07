@@ -1,0 +1,4 @@
+outs:
+- md5: 38887896680523783274f34cc021b408
+  size: 3998299
+  path: infantMortalityRate.csv
